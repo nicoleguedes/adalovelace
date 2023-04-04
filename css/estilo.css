@@ -1,0 +1,30 @@
+body { margin: 0;
+    background-color: burlywood;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+p {
+    color: black;
+}
+h1.titulo{
+    text-align: center;
+    
+    
+}
+.logo{
+    image-rendering: optimizeQuality;
+    height: 80vh;
+    width: 80%;
+    align-items: center;
+    margin-left: 150px;
+    margin-right: 90px;
+    
+}
+ h1.subtitulo{
+    font-size: 60px;
+    text-align: center;
+
+ }
+p{
+    text-align: left;
+}
